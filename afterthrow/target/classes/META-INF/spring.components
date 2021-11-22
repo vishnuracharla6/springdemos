@@ -1,0 +1,3 @@
+com.luv2code.aopdemo.DemoConfig=org.springframework.stereotype.Component
+com.luv2code.aopdemo.aspect.MyDemoAspect=org.springframework.stereotype.Component
+com.luv2code.aopdemo.dao.AccountDAO=org.springframework.stereotype.Component

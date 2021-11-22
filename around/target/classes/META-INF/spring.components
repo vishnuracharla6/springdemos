@@ -1,0 +1,3 @@
+com.luv2code.aopdemo.DemoConfig=org.springframework.stereotype.Component
+com.luv2code.aopdemo.aspect.AroundAspect=org.springframework.stereotype.Component
+com.luv2code.aopdemo.service.TrafficFortuneService=org.springframework.stereotype.Component
